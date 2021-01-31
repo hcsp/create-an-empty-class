@@ -4,6 +4,5 @@ public class CatTest {
     @Test
     public void Cat() {
         new Cat();
-
     }
 }
