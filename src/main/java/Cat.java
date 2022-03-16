@@ -1,3 +1,3 @@
 public class Cat {
-    // 创建一个新的类
+    // 创建一个新的类 Cat
 }
