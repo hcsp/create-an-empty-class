@@ -6,7 +6,7 @@
 注意！我们只允许你修改以下文件，对其他文件的修改会被拒绝：
 - [src/main/java/Cat.java](https://github.com/hcsp/create-an-empty-class/blob/master/src/main/java/Cat.java)
 -----
-sta
+
 
 完成题目有困难？不妨来看看[写代码啦的相应课程](https://xiedaimala.com/tasks/316bb6cc-6aa6-4dac-85e4-ce1c01b72c83/video_tutorials/096da117-fce7-42d1-bf89-8b1ce68cbc82)吧！
 
