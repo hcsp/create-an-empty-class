@@ -1,5 +1,5 @@
 public class Cat{
     public static void main(String[] args) {
-        System.out.println("a new Cat Object");
+        System.out.println(" new Cat Object");
     }
 }
