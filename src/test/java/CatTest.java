@@ -5,4 +5,7 @@ public class CatTest {
     public void testNewCat() {
         new Cat();
     }
+    public class  Cat {
+        private String name;
+    }
 }
